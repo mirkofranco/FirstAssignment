@@ -5,3 +5,4 @@ Pizza Capricciosa: ./pizza/capricciosa.md
 Pizzeria Bella Napoli
 PRIMI
 Bucatini alla Matriciana: ./primi/bucatini_matriciana.md
+Spaghetti alla Carbonata: ./primi/spaghetti_carbonara.md
